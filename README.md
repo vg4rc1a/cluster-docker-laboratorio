@@ -1,4 +1,4 @@
-# cluster-docker-laboratorio#
+# cluster-docker-laboratorio##
 # 🐳 Cluster Docker Swarm — Laboratorio
 
 Laboratorio funcional de Docker Swarm con 3 nodos virtualizados, pfSense como gateway/firewall y Ubuntu Server 22.04.
