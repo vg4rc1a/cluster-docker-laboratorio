@@ -1,0 +1,11 @@
+# Agregar en /etc/hosts de LOS 3 NODOS del Swarm
+# Comando: sudo tee -a /etc/hosts < hosts-snippet.txt
+
+# Docker Swarm Cluster
+192.168.1.101  swarm-manager
+192.168.1.104  swarm-worker01
+192.168.1.105  swarm-worker02
+
+# Gateway y cliente
+192.168.1.1    pfsense
+192.168.1.10   win10lts
