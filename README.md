@@ -35,8 +35,8 @@ Internet
 | Servidor 1 | swarm-manager  | 192.168.1.101 | Manager (Leader) | 2   | 1.39GB |
 | Servidor 2 | swarm-worker01 | 192.168.1.104 | Worker           | 2   | 1.39GB |
 | Servidor 3 | swarm-worker02 | 192.168.1.105 | Worker           | 2   | 1.39GB |
-| Gateway    | pfsense        | 192.168.1.1   | Firewall/Router  | —   | —      |
-| Cliente    | win10lts       | 192.168.1.10  | Administración   | —   | —      |
+| Gateway    | pfsense        | 192.168.1.1   | Firewall/Router  | 1   | 1GB    |
+| Cliente    | win10lts       | 192.168.1.10  | Administración   | 1   | 2G     |
 
 ---
 
