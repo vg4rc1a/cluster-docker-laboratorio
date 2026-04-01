@@ -105,7 +105,7 @@ bash scripts/08-test-service.sh
 
 ---
 
-## ✅ Estado Real del Cluster (27/02/2026)
+## ✅ Estado Real del Cluster 
 
 ```
 ID                            HOSTNAME         STATUS    AVAILABILITY   MANAGER STATUS   ENGINE VERSION
